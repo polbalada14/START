@@ -1,6 +1,8 @@
 #coding :utf8
+#Autor: Pol Balada
+#4/2/18
 
-nombre=raw_input(Indica el teu nom: ")
+nombre=raw_input("Indica el teu nom: ")
 edat=input("Indica la teva edat: ")
 
 #Si es major de 18 anys, pots entrar a la disco
